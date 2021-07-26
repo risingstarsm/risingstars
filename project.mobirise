@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rising Stars",
-    "currentPage": "index.html",
+    "currentPage": "Testimonials.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5895,7 +5895,7 @@
         }
       ]
     },
-    "page7.html": {
+    "Testimonials.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Testimonials",
