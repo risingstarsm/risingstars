@@ -1967,8 +1967,8 @@ body {
   }
 }
 .cid-soSYz28u3f {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
 .cid-soSYz28u3f .mbr-iconfont-social {
@@ -2046,8 +2046,8 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-sEeWegLX2q {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
 .cid-sEeWegLX2q .mbr-iconfont-social {
@@ -2909,14 +2909,9 @@ body {
 .cid-rzhyWG12VZ .mbr-section-btn {
   color: #232323;
 }
-.cid-rzENbcvlLw {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-sEeVU7Qr0l {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
 .cid-sEeVU7Qr0l .mbr-iconfont-social {
@@ -2925,6 +2920,11 @@ body {
 }
 .cid-sEeVU7Qr0l .social-list a:focus {
   text-decoration: none;
+}
+.cid-rzENbcvlLw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-ryeWruH5Hg .navbar {
   padding: .5rem 0;
@@ -3365,8 +3365,8 @@ body {
   color: #232323;
 }
 .cid-sEeVMzo1Bz {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
 .cid-sEeVMzo1Bz .mbr-iconfont-social {
@@ -3822,8 +3822,8 @@ body {
   color: #232323;
 }
 .cid-sEeVH2fmUS {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
 .cid-sEeVH2fmUS .mbr-iconfont-social {
@@ -3924,8 +3924,8 @@ body {
   text-align: center;
 }
 .cid-sEeWkk8lOX {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
 .cid-sEeWkk8lOX .mbr-iconfont-social {
@@ -4379,8 +4379,8 @@ body {
   color: #232323;
 }
 .cid-sEeW5PDyja {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background: linear-gradient(0deg, #7fdbfd, #6670a9);
 }
 .cid-sEeW5PDyja .mbr-iconfont-social {
